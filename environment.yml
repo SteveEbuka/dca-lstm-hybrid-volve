@@ -1,0 +1,15 @@
+name: hybrid_dca_lstm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - scipy
+  - jupyter
+  - openpyxl
+  - pip:
+    - tensorflow
