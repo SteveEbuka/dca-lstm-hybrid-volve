@@ -1,7 +1,4 @@
-# dca-lstm-hybrid-volve
-Hybrid physics-informed DCA-LSTM framework for oil well production forecasting using the Equinor Volve dataset.
-
-Hybrid DCA-LSTM Framework for Oil Well Production Forecasting
+# Hybrid DCA-LSTM Framework for Oil Well Production Forecasting
 
 This repository accompanies the manuscript:
 
