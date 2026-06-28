@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Iheagwara"
+    given-names: "Stephen Ebuka"
+    email: "stephfibre@gmail.com"
+  - family-names: "Adefisan"
+    given-names: "Folashade Peace"
+    email: "apeacejoke@gmail.com"
+  - family-names: "Olorunshola"
+    given-names: "Oluwaseyi Ezekiel"
+    email: "seyisola@gmail.com"
+  - family-names: "Mafua"
+    given-names: "Henry Onyeoma"
+    email: "heonma@gmail.com"
+title: "Hybrid DCA-LSTM Framework for Oil Well Production Forecasting"
+version: 1.0.0
+date-released: 2026-06-28
