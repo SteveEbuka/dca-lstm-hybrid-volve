@@ -54,16 +54,18 @@ The repository includes the core figures discussed in the manuscript. Additional
 │   ├── sample_data.csv          # Subset of data for testing execution
 │   └── download_instructions.md # Steps to download the full Volve dataset
 ├── figures/
-│   ├── fig1_raw_production.png  # Historical raw production plots
-│   ├── fig2_dca_fit.png         # Arps decline fitting charts
-│   ├── fig3_loss_curve.png      # Training/validation optimization plots
-│   ├── fig4_residuals.png       # Error variance distributions
-│   └── fig5_forecast_comparison.png # Comparative framework forecasts
+│   ├── fig_01_raw_production.png  # Historical raw production plots
+│   ├── fig_05_dca_fit.png         # Arps decline fitting charts
+│   ├── fig_08_hybrid_loss_curve.png      # Training/validation optimization plots
+│   ├── fig_09_residual_pred_vs_actual.png       # Error variance distributions
+│   └── fig_10_forecast_comparison.png # Comparative framework forecasts
 ├── notebooks/
-│   ├── 1_data_preprocessing.ipynb
-│   ├── 2_arps_dca_fitting.ipynb
-│   ├── 3_hybrid_dca_lstm_training.ipynb
-│   └── 4_evaluation.ipynb
+│   ├── 01_Preprocessing.ipynb
+│   ├── 02_DCA_Fitting.ipynb
+│   ├── 02b_Grid_Search.ipynb
+│   ├── 03_LSTM_Training.ipynb
+│   ├── 03b_Sensitivity_Analysis.ipynb
+│   └── 04_Evaluation.ipynb
 └── README.md
 ```
 
